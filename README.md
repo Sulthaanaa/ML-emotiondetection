@@ -1,7 +1,19 @@
-# 💻 E.D Desktop Application
-To make a desktop application which allows to register patient details, scans their facial expressions, and detects emotions and includes an application based chatbot using python as the programming language. It’s designed in a manner where individuals can easily find it easy to navigate through the interface of the application. </br>
-![image](https://github.com/Sulthaanaa/ML-emotiondetection/assets/93428764/5f92f370-6356-4cdb-9256-d9850e60bd01)
+# PyPower Project - Emotion Detection using AI
 
+## Emotion Detection
 
+- Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
+- Use train.py file to train the model.
 
+- Change the number of classes according to you.
+
+- Do Experiment with different pre-trained models.
+
+- Execute the test.py file to run the Emotion Detection.
+
+- Enjoy Deep Learning.
+
+## The detailed tutorial is available in this video. Please do refer for better understanding.
+
+- https://youtu.be/PulKlAZRoAY
